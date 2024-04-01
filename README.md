@@ -8,7 +8,7 @@ Installation
 
 	1. Clone the repository: Use the following command to clone the repository to your local machine:
 
-		command: git clone https://github.com/AbhisheKKumarSDM/Secure-Message-Sharing.git
+		command: git clone https://github.com/AbhisheKKumarSDM/Secured-Message-Sharing.git
 
 	2. Configure Database: Set up a MySQL database and import the provided SQL file (database.sql) to create				the necessary tables.
 
